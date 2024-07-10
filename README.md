@@ -31,7 +31,7 @@
 
 ### 📋 목차
 > ### 📌 1. 컴퓨터는 데이터에서 배운다
-
+> ### 📌 2. 간단한 분류 알고리즘 훈련
 
 <br>
 
@@ -146,5 +146,68 @@
 
 <br>
 <br>
+
+### 📌 2. 간단한 분류 알고리즘 훈련
+
+### 2-1. 인공 뉴런 : 초기 머신 러닝의 간단한 역사
+
+<br>
+
+- [뇌의 신경 세포]
+- <img src="https://github.com/jongheonleee/machine_learning/assets/87258372/1a3d5daa-ec10-4c8e-a686-0e91f3f35ed1" width="500" height="500"/>
+- 합쳐진 신호가 특정 임계 값을 넘으면 출력 신호가 생성되고 축삭 돌기를 이용하여 전달함
+- 퍼셉트론 규칙
+  - 자동으로 최적의 가중치를 학습하는 알고리즘 제안
+  - 이 가중치는 뉴런의 출력 신호를 낼지 말지를 결정하기 위해 입력 특성에 곱하는 계수임
+  - 즉, 해당 알고리즘을 사용하여 새로운 데이터 포인터가 한 클래스에 속하는지 아닌지 예측 가능
+
+<br>
+
+- [인공 뉴런의 수학적 정의]
+- <img src="https://github.com/jongheonleee/machine_learning/assets/87258372/e35c53dd-ef67-4afd-b690-33dcd805f4a5" width="500" height="500"/>
+- <img src="https://github.com/jongheonleee/machine_learning/assets/87258372/94b3483b-5c6d-40be-a06f-1f9f5113e2bc" width="500" height="500"/>
+- <img src="https://github.com/jongheonleee/machine_learning/assets/87258372/5236d1ce-e06b-4e57-97b6-633f7e26bcc0" width="500" height="500"/>
+- <img src="https://github.com/jongheonleee/machine_learning/assets/87258372/70f4c1c2-1974-45c4-b71b-160091cda0fd" width="500" height="500"/>
+
+<br>
+
+- 퍼셉트론 알고리즘 : 가중치 자동 업데이트, 성능 향상, 예측 
+  - [퍼셉트론 알고리즘]
+  - <img src="https://github.com/jongheonleee/machine_learning/assets/87258372/2acd368f-b760-4fd2-97ff-9b9610e341bc" width="500" height="500"/>
+
+- 퍼셉트론 학습 규칙 -> 출력을 하거나 하지 않는 경우로만 나뉨
+  - [퍼셉트론 학습 규칙]
+  - <img src="https://github.com/jongheonleee/machine_learning/assets/87258372/9eaf2a13-bbfb-422e-ad4b-c5dde643745a" width="500" height="500"/>
+
+  <br>
+  
+  - [수식 추가 및 상세 설명]
+  - <img src="https://github.com/jongheonleee/machine_learning/assets/87258372/3efaa074-664a-4749-914a-8c7ace6c9223" width="500" height="500"/>
+ 
+  <br>
+
+  - [클래스 레이블 예측 성공]
+  - <img src="https://github.com/jongheonleee/machine_learning/assets/87258372/dc8395bc-54c3-434b-a2d3-6144c0c89f81" width="500" height="500"/>
+  - 타깃값 = 예측값 -> 가중치 변경 x
+
+  <br>
+
+  - [클래스 레이블 예측 실패]
+  - <img src="https://github.com/jongheonleee/machine_learning/assets/87258372/d4f5ddac-d915-45ed-8284-8133ed5fbfce" width="500" height="500"/>
+  - 타깃값 != 예측값 -> 가중치 변경 o
+
+  <br>
+
+  - [퍼셉트론 알고리즘 구현]
+  - <img src="https://github.com/jongheonleee/machine_learning/assets/87258372/4eaa6629-4883-47c6-a027-b0b20637f346" width="500" height="500"/>
+  - <img src="https://github.com/jongheonleee/machine_learning/assets/87258372/20740135-ddc8-4668-a7bb-34addf3308a1" width="500" height="500"/>
+
+- 퍼셉트론은 두 클래스가 선형적으로 구분되고 학습률이 충분히 작을 때만 수렴이 보장
+- [선형 구분 데이터셋/그렇지 못한 데이터셋]
+- <img src="https://github.com/jongheonleee/machine_learning/assets/87258372/06e322cf-0195-4ccc-9213-3cec023fe9d2" width="500" height="500"/>
+
+<br>
+
+
 
 ### 📋 몰입 리스트
