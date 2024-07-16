@@ -206,7 +206,11 @@
 - [선형 구분 데이터셋/그렇지 못한 데이터셋]
 - <img src="https://github.com/jongheonleee/machine_learning/assets/87258372/06e322cf-0195-4ccc-9213-3cec023fe9d2" width="500" height="500"/>
 
-<br>
+
+- [요약]
+- <img src="https://github.com/user-attachments/assets/a436ad06-88ba-4763-92b4-c50bd369fea0" width="500" height="500"/>
+- <img src="https://github.com/user-attachments/assets/4a513e49-bd9d-45f3-8088-abe1b78251d1" width="500" height="500"/>
+
 
 
 
