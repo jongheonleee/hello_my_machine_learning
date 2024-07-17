@@ -217,9 +217,24 @@
 ### 주요 알고리즘 그림
 
 - 퍼셉트론
+- <img src="https://github.com/jongheonleee/machine_learning/assets/87258372/2acd368f-b760-4fd2-97ff-9b9610e341bc" width="500" height="500"/>
+
+<br>
+
 - 아달린
+- <img src="https://github.com/user-attachments/assets/e20c7da1-4d2a-4930-b613-27ea753a6e1b" width="500" height="500"/>
+
+<br>
+  
 - 로지스틱 회귀
 - <img src="https://github.com/user-attachments/assets/ce1e75a9-9a8e-4ccf-a621-0d2fe46fce4f" width="500" height="500"/>
 
+- 서포트 벡터 머신
+- <img src="https://github.com/user-attachments/assets/e3f54ed3-2490-465a-b76a-fe176731254d" width="500" height="500"/>
+- <img src="https://github.com/user-attachments/assets/e0b68d4b-6252-4bc3-a93b-40ad5fce5d65" width="500" height="500"/>
+
+
+- 커널 SVM
+- <img src="https://github.com/user-attachments/assets/ab4d718d-1c94-4eb9-8aff-1a4facb7c8f8" width="500" height="500"/>
 
 ### 📋 몰입 리스트
