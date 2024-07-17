@@ -230,7 +230,7 @@
 - <img src="https://github.com/user-attachments/assets/ce1e75a9-9a8e-4ccf-a621-0d2fe46fce4f" width="500" height="500"/>
 
 - 서포트 벡터 머신
-- <img src="https://github.com/user-attachments/assets/e3f54ed3-2490-465a-b76a-fe176731254d" width="500" height="500"/>
+- <img src="https://github.com/user-attachments/assets/c70f2a51-396f-4954-bd75-651ec61fe234" width="500" height="500"/>
 - <img src="https://github.com/user-attachments/assets/e0b68d4b-6252-4bc3-a93b-40ad5fce5d65" width="500" height="500"/>
 
 
