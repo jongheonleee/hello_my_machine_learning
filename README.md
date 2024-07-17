@@ -214,6 +214,12 @@
 
 
 
+### 주요 알고리즘 그림
+
+- 퍼셉트론
+- 아달린
+- 로지스틱 회귀
+- <img src="https://github.com/user-attachments/assets/ce1e75a9-9a8e-4ccf-a621-0d2fe46fce4f" width="500" height="500"/>
 
 
 ### 📋 몰입 리스트
