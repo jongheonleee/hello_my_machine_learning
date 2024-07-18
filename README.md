@@ -216,25 +216,68 @@
 
 ### 주요 알고리즘 그림
 
-- 퍼셉트론
+- [퍼셉트론]
 - <img src="https://github.com/jongheonleee/machine_learning/assets/87258372/2acd368f-b760-4fd2-97ff-9b9610e341bc" width="500" height="500"/>
 
 <br>
 
-- 아달린
+- [아달린]
 - <img src="https://github.com/user-attachments/assets/e20c7da1-4d2a-4930-b613-27ea753a6e1b" width="500" height="500"/>
 
 <br>
   
-- 로지스틱 회귀
+- [로지스틱 회귀]
 - <img src="https://github.com/user-attachments/assets/ce1e75a9-9a8e-4ccf-a621-0d2fe46fce4f" width="500" height="500"/>
 
-- 서포트 벡터 머신
+- [서포트 벡터 머신(SVM)]
 - <img src="https://github.com/user-attachments/assets/c70f2a51-396f-4954-bd75-651ec61fe234" width="500" height="500"/>
 - <img src="https://github.com/user-attachments/assets/e0b68d4b-6252-4bc3-a93b-40ad5fce5d65" width="500" height="500"/>
 
 
-- 커널 SVM
+- [커널 SVM]
 - <img src="https://github.com/user-attachments/assets/ab4d718d-1c94-4eb9-8aff-1a4facb7c8f8" width="500" height="500"/>
 
+- [결정 트리]
+- <img src="https://github.com/user-attachments/assets/58192f0e-15da-4965-b9e0-91efe1fa2a47" width="500" height="500"/>
+- <img src="https://github.com/user-attachments/assets/c9d1645f-a940-4e4c-9aeb-e7434f77c208" width="500" height="500"/>
+- 어떤 항목에 대한 관측값과 목표값을 연결시켜주는 예측 모델로서 결정 트리를 사용
+- 특성 공간을 사각 격자로 나누기 때문에 복잡한 결정 경계를 만들 수 있음
+- 깊어질 수록 과대적합 우려 -> 가지치기
+
+
+- [랜덤 포레스트(앙상블)]
+- <img src="https://github.com/user-attachments/assets/84e644c2-f32b-4972-a332-eabe10151887" width="500" height="500"/>
+- 앙상블? n개를 표준내서 사용하는 것 -> 과대적합 방지 일반화 시킴
+- 랜덤 포레스트는 결정 트리의 앙상블임. n개의 (깊은) 결정 트리를 평균내는 것
+- 개개의 트리는 분산이 높은 문제가 있지만, 앙상블은 견고한 모델을 만들어 일반화 성능을 높이고 과대적합의 위험을 줄임
+- 랜덤 포레스트의 학습 과정 
+  - (1) n개의 랜덤한 부트스트랩 샘플을 받음(중복 허용, m개 샘플 선택)
+  - (2) 부트스트랩 샘플에서 결정트리 학습
+      - 중복 x, 랜덤하게 d개 선택
+      - 목적 함수를 기준으로 최선의 분할을 만드는 특성을 사용해서 노드 분할
+  - (3) (1) ~ (2) k 번 반복
+  - (4) 각 트리의 예측을 모아 다수결 투표로 클래스 레이블 할당
+
+
+
+- [KNN]
+- <img src="https://github.com/user-attachments/assets/2712a99b-16e0-4fcc-adc7-a4e003243145" width="500" height="500"/>
+- 분류하려는 포인트와 가장 근접한 샘플 k개 찾음, 새로운 데이터 포인트의 클래스 레이블은 이 k개의 최근접 이웃에서 다수결 투표로 결정
+- 데이터에서 판별 함수를 학습 시키는 대신 훈련 데이터 셋을 메모리에 저장함
+- 적절한 k개를 찾는 것이 중요함, 과대적합/과소적합의 올바른 균형을 잡기 위해 중요함
+- KNN 학습 과정
+  - (1) 숫자 k와 거리 측정 기준을 선택
+  - (2) 분류하려는 샘플에서 k개의 최근접 이웃을 찾음
+  - (3) 다수결투표를 통해 클래스 레이블 할당
+
+- 모수 모델
+  - 새로운 데이터 포인트를 분류할 수 있는 함수를 학습하기 위함
+  - 훈련 데이터 셋에서 모델 파라미터를 추정함
+
+- 비모수 모델
+  - 훈련 데이터가 늘어남에 따라 파라미터 개수도 늘어남(랜덤 포레스트, 앙상블, KNN)
+
+- 차원의 저주
+  - 고정된 크기의 훈련 데이터셋이 차원이 늘어남에 따라 특성 공간이 점점 희소해지는 현상 
+ 
 ### 📋 몰입 리스트
