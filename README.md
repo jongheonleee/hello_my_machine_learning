@@ -24,6 +24,17 @@
 <br>
 <br>
 
+- [머신러닝 알고리즘 종류]
+- <img src="https://github.com/user-attachments/assets/cd143c5c-06c2-4bfd-8aca-a71102b4eae5" width="500" height="500"/>
+
+<br>
+
+- [머신러닝 알고리즘 유형]
+- <img src="https://github.com/user-attachments/assets/5528285c-7a60-45ff-889f-17c8dae1f2e9" width="500" height="500"/>
+
+<br>
+<br>
+
 
 ### 📖 머신러닝 학습 요약
 
@@ -215,14 +226,6 @@
 
 
 ### 주요 알고리즘 그림
-
-- [머신러닝 알고리즘 종류]
-- <img src="https://github.com/user-attachments/assets/cd143c5c-06c2-4bfd-8aca-a71102b4eae5" width="500" height="500"/>
-
-<br>
-
-- [머신러닝 알고리즘 유형]
-- <img src="https://github.com/user-attachments/assets/5528285c-7a60-45ff-889f-17c8dae1f2e9" width="500" height="500"/>
 
 - [퍼셉트론]
 - <img src="https://github.com/jongheonleee/machine_learning/assets/87258372/2acd368f-b760-4fd2-97ff-9b9610e341bc" width="500" height="500"/>
