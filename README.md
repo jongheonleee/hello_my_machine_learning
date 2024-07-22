@@ -156,79 +156,17 @@
    
 
 <br>
-<br>
-
-### 📌 2. 간단한 분류 알고리즘 훈련
-
-### 2-1. 인공 뉴런 : 초기 머신 러닝의 간단한 역사
-
-<br>
-
-- [뇌의 신경 세포]
-- <img src="https://github.com/jongheonleee/machine_learning/assets/87258372/1a3d5daa-ec10-4c8e-a686-0e91f3f35ed1" width="500" height="500"/>
-- 합쳐진 신호가 특정 임계 값을 넘으면 출력 신호가 생성되고 축삭 돌기를 이용하여 전달함
-- 퍼셉트론 규칙
-  - 자동으로 최적의 가중치를 학습하는 알고리즘 제안
-  - 이 가중치는 뉴런의 출력 신호를 낼지 말지를 결정하기 위해 입력 특성에 곱하는 계수임
-  - 즉, 해당 알고리즘을 사용하여 새로운 데이터 포인터가 한 클래스에 속하는지 아닌지 예측 가능
-
-<br>
-
-- [인공 뉴런의 수학적 정의]
-- <img src="https://github.com/jongheonleee/machine_learning/assets/87258372/e35c53dd-ef67-4afd-b690-33dcd805f4a5" width="500" height="500"/>
-- <img src="https://github.com/jongheonleee/machine_learning/assets/87258372/94b3483b-5c6d-40be-a06f-1f9f5113e2bc" width="500" height="500"/>
-- <img src="https://github.com/jongheonleee/machine_learning/assets/87258372/5236d1ce-e06b-4e57-97b6-633f7e26bcc0" width="500" height="500"/>
-- <img src="https://github.com/jongheonleee/machine_learning/assets/87258372/70f4c1c2-1974-45c4-b71b-160091cda0fd" width="500" height="500"/>
-
-<br>
-
-- 퍼셉트론 알고리즘 : 가중치 자동 업데이트, 성능 향상, 예측 
-  - [퍼셉트론 알고리즘]
-  - <img src="https://github.com/jongheonleee/machine_learning/assets/87258372/2acd368f-b760-4fd2-97ff-9b9610e341bc" width="500" height="500"/>
-
-- 퍼셉트론 학습 규칙 -> 출력을 하거나 하지 않는 경우로만 나뉨
-  - [퍼셉트론 학습 규칙]
-  - <img src="https://github.com/jongheonleee/machine_learning/assets/87258372/9eaf2a13-bbfb-422e-ad4b-c5dde643745a" width="500" height="500"/>
-
-  <br>
-  
-  - [수식 추가 및 상세 설명]
-  - <img src="https://github.com/jongheonleee/machine_learning/assets/87258372/3efaa074-664a-4749-914a-8c7ace6c9223" width="500" height="500"/>
- 
-  <br>
-
-  - [클래스 레이블 예측 성공]
-  - <img src="https://github.com/jongheonleee/machine_learning/assets/87258372/dc8395bc-54c3-434b-a2d3-6144c0c89f81" width="500" height="500"/>
-  - 타깃값 = 예측값 -> 가중치 변경 x
-
-  <br>
-
-  - [클래스 레이블 예측 실패]
-  - <img src="https://github.com/jongheonleee/machine_learning/assets/87258372/d4f5ddac-d915-45ed-8284-8133ed5fbfce" width="500" height="500"/>
-  - 타깃값 != 예측값 -> 가중치 변경 o
-
-  <br>
-
-  - [퍼셉트론 알고리즘 구현]
-  - <img src="https://github.com/jongheonleee/machine_learning/assets/87258372/4eaa6629-4883-47c6-a027-b0b20637f346" width="500" height="500"/>
-  - <img src="https://github.com/jongheonleee/machine_learning/assets/87258372/20740135-ddc8-4668-a7bb-34addf3308a1" width="500" height="500"/>
-
-- 퍼셉트론은 두 클래스가 선형적으로 구분되고 학습률이 충분히 작을 때만 수렴이 보장
-- [선형 구분 데이터셋/그렇지 못한 데이터셋]
-- <img src="https://github.com/jongheonleee/machine_learning/assets/87258372/06e322cf-0195-4ccc-9213-3cec023fe9d2" width="500" height="500"/>
-
-
-- [2024.07.16]
-- <img src="https://github.com/user-attachments/assets/a436ad06-88ba-4763-92b4-c50bd369fea0" width="500" height="500"/>
-- <img src="https://github.com/user-attachments/assets/4a513e49-bd9d-45f3-8088-abe1b78251d1" width="500" height="500"/>
-- <img src="https://github.com/user-attachments/assets/bfb50509-088c-4592-a25d-99562c26d39a" width="500" height="500"/>
-
-
 
 ### 주요 알고리즘 그림
 
 - [퍼셉트론]
 - <img src="https://github.com/jongheonleee/machine_learning/assets/87258372/2acd368f-b760-4fd2-97ff-9b9610e341bc" width="500" height="500"/>
+- 가중치 자동 업데이트, 성능 향상, 예측 
+- 퍼셉트론 규칙
+  - 자동으로 최적의 가중치를 학습하는 알고리즘 제안
+  - 이 가중치는 뉴런의 출력 신호를 낼지 말지를 결정하기 위해 입력 특성에 곱하는 계수임
+  - 즉, 해당 알고리즘을 사용하여 새로운 데이터 포인터가 한 클래스에 속하는지 아닌지 예측 가능
+
 
 <br>
 
@@ -308,4 +246,19 @@
     - (3) 특성 집합에서 x-를 제거
     - (4) k가 목표하는 특성 개수가 되면 종료
 
+- [PCA]
+- <img src="https://github.com/user-attachments/assets/1e491b81-73d6-4b1b-9908-ec487a10a514" width="500" height="500"/>
+
+- [LDA]
+- <img src="https://github.com/user-attachments/assets/06aee3ae-746c-4fef-bb25-1e3178c980d5" width="500" height="500"/>
+- <img src="https://github.com/user-attachments/assets/a2cba6cf-eb16-442e-8c36-048b557ec038" width="500" height="500"/>
+
+- [KPCA]
+- <img src="https://github.com/user-attachments/assets/d4d25b6f-8c60-44c3-9676-fed50107eec5" width="500" height="500"/>
+
+- 툭성 추출을 위한 세 개의 기본적인 차원 축소 기법
+  - (1) PCA : 비지도학습, 직교하는 특성 축을 따라 분산이 최대가 되는 저차원 부분 공간으로 데이터를 투영함
+  - (2) LDA : 지도학습, 훈련 데이터셋에 있는 클래스 정보를 사용하여 선형 특성 공간에서 클래스 구분 능력을 최대화함
+  - (3) KPCA : 커널 트릭과 고차원 특성 공간으로의 가상 투영을 통하여 비선형 특성을 가진 데이터셋을 저차원 부분 공간으로 극적으로 압축함 
+ 
 ### 📋 몰입 리스트
