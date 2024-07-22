@@ -24,13 +24,12 @@
 <br>
 <br>
 
-- [머신러닝 알고리즘 종류]
-- <img src="https://github.com/user-attachments/assets/cd143c5c-06c2-4bfd-8aca-a71102b4eae5" width="500" height="500"/>
 
-<br>
+- [머신러닝 알고리즘]
+- <img src="https://github.com/user-attachments/assets/ee80dcfd-420e-4bd8-b169-e2e123e63155" width="500" height="500"/>
+- <img src="https://github.com/user-attachments/assets/d0de570d-23de-4e1d-b720-8574b7384230" width="500" height="500"/>
+- <img src="https://github.com/user-attachments/assets/496bef19-1b7e-4e8f-a7ed-96cfec29ee8d" width="500" height="500"/>
 
-- [머신러닝 알고리즘 유형]
-- <img src="https://github.com/user-attachments/assets/5528285c-7a60-45ff-889f-17c8dae1f2e9" width="500" height="500"/>
 
 <br>
 <br>
