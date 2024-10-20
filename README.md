@@ -7,31 +7,21 @@
 <img src="https://github.com/user-attachments/assets/04812333-c296-427f-928a-707e0c5092ea" width="800" height="500"/>
 
 
-
+<br>
 <br>
 
-### 몰입할 때 참고했던 서적과 교육
-> ### 📚 참고 서적 및 사이트
-> ### 1. 머신러닝 교과서
-> 도서 링크 : https://product.kyobobook.co.kr/detail/S000001834604
-> ### 2. 남궁성의 백엔드 데브 캠프 1기(AI 융합)
+## 📌 01. Machine Learning 주요 용어 정리 
 
 
-<br>
-
-### ⭐️ 목표
-> ### 추후에 AI 프로젝트를 위함, 그리고 언젠가는 AI 쪽으로 커리어 전환이 일어날거임
-> ### 시대에 흐름에 맞춰 가기 위함
 
 <br>
 <br>
 
-### 🫵🏻 머신러닝의 핵심 
-> ### 주요 알고리즘이 어떤 상황에 쓰이는지
+## 📌 02. Machine Learning 주요 학습 내용 정리 
+
 
 <br>
 <br>
-
 
 - [머신러닝 알고리즘]
 - <img src="https://github.com/user-attachments/assets/ee80dcfd-420e-4bd8-b169-e2e123e63155" width="500" height="500"/>
