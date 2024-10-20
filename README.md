@@ -4,7 +4,7 @@
 
 #### 🧑🏻‍🏫 Machine Learning Algorithms!
 
-<img src="" width="800" height="500"/>
+<img src="https://github.com/user-attachments/assets/04812333-c296-427f-928a-707e0c5092ea" width="800" height="500"/>
 
 
 
