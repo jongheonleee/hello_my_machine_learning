@@ -1,4 +1,12 @@
-# 🤖 machine_learning
+#  Hello My First Machine Learning 🤖
+
+## 📌 00. 전체 틀 파악 
+
+#### 🧑🏻‍🏫 Machine Learning Algorithms!
+
+<img src="" width="800" height="500"/>
+
+
 
 <br>
 
