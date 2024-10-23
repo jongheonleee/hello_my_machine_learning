@@ -44,7 +44,7 @@
 
 > - #### 회귀(regression) : 클래스 중 하나로 분류하는 것이 아닌 임의의 어떤 숫자(값)를 예측하는 문제
 > - #### k-최근접 이웃 분류 vs k-최근접 이웃 회귀
->   - <img src="https://github.com/user-attachments/assets/f2326ec6-c311-4a0c-95c6-4fc7621883e6)" width="500" height="500"/>
+>   - <img src="https://github.com/user-attachments/assets/f2326ec6-c311-4a0c-95c6-4fc7621883e6" width="400" height="400"/>
 > - #### 결정계수(R^2, coefficient of determination) : 회귀 모델에서 예측의 적합도를 0과 1 사이의 값으로 계산하는 것으로 1에 가까울수록 완벽함
 > - #### 과대적합(overfitting) : 모델의 훈련 세트 점수가 테스트 세트 점수보다 훨씬 높은 경우를 의미함
 > - #### 과소적합(underfitting) : 모델의 훈련 세트와 테스트 세트 점수가 모두 동일하게 낮거나 테스트 세트 성능이 오히려 더 높은 경우를 의미함
